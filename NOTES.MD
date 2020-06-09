@@ -49,3 +49,7 @@ const menu = [
 Electron Packager 
 
 https://www.christianengvall.se/electron-packager-tutorial/
+
+Electron store user datta
+
+https://cameronnokes.com/blog/how-to-store-user-data-in-electron/
